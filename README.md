@@ -1,4 +1,4 @@
-# Bachat Kosh (बचत कोष)
+# Bachat Kosh
 
 A community savings & investment management system for small savings
 groups (dhukuti/cooperative-style groups) in Nepal. Members make monthly
@@ -129,7 +129,4 @@ reset, backup download, logout/login, and a full "erase all data →
 restore from backup" recovery cycle. Run it against a running PHP
 server (`php -S 127.0.0.1:8899` from this folder) with:
 
-```
-npm install playwright
-node e2e-test.js
-```
+
